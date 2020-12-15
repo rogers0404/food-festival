@@ -1,7 +1,10 @@
 require("bootstrap");
 const createEl = require("./domMethods");
-const img1 = require("../../assets/img/food-table.jpg");
+/* const img1 = require("../../assets/img/food-table.jpg");
 const img2 = require("../../assets/img/grill.jpg");
+ */
+const img1 = require("../../dist/assets/img/food-table.jpg");
+const img2 = require("../../dist/assets/img/grill.jpg");
 
 $(document).ready(function() {
  
